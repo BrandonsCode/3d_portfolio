@@ -198,12 +198,12 @@
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Nft Minting Website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search, save, and manage NFt's from various providers, providing a convenient and efficient solution for blockchain technologies.",
       tags: [
         {
-          name: "react",
+          name: "Next Js",
           color: "blue-text-gradient",
         },
         {
@@ -216,12 +216,12 @@
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/BrandonsCode/NFT-Minting-Dapp",
     },
     {
-      name: "Job IT",
+      name: "Customers & Employee Api",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate customers items from database based on their customer-id.",
       tags: [
         {
           name: "react",
@@ -237,10 +237,10 @@
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/BrandonsCode/react",
     },
     {
-      name: "Trip Guide",
+      name: "ThrillartsAuction",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -258,7 +258,7 @@
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://thrillartsauction.com/",
     },
   ];
   
